@@ -1,2 +1,2 @@
 # portafolio-laravel
-;i primer portafolio desarrollado en Laravel
+Mi primer portafolio desarrollado en Laravel
